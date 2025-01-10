@@ -1,2 +1,2 @@
-# School-Assignments
-Some School Assignments or Projects
+# School-Projects
+Projects realized under school context
