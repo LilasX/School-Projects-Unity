@@ -1,2 +1,2 @@
-# School-Projects
-Projects realized under school context
+# School-Projects-Unity
+Projects of Unity in C# from School Lectures
